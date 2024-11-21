@@ -22,5 +22,3 @@ Com isso, buscamos **melhorar a gestão de ativos hospitalares**, aumentando a e
 Para acessar a **documentação completa** do projeto, clique no link abaixo:
 
 [**Acesse a Documentação**](https://indoortrackingteam.github.io/indoor-tracking-docs/docs/intro)
-
-Nela, explicamos todas as partes e funcionalidades do projeto, fornecendo uma visão detalhada sobre a implementação e uso do sistema.
